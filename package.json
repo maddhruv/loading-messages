@@ -1,0 +1,25 @@
+{
+  "name": "loading-messages",
+  "version": "0.0.1",
+  "description": "Get Random Funny Loading Messages/Texts for your app.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddhruv/loading-messages.git"
+  },
+  "keywords": [
+    "loading",
+    "messages",
+    "loading-messages",
+    "funny-loading",
+    "funny-messages"
+  ],
+  "author": "Dhruv Jain <dhruvjainpenny@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maddhruv/loading-messages/issues"
+  },
+  "homepage": "https://github.com/maddhruv/loading-messages#readme"
+}
