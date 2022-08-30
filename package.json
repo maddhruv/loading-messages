@@ -1,6 +1,6 @@
 {
   "name": "loading-messages",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Get Random Funny Loading Messages/Texts for your app.",
   "main": "index.js",
   "devDependencies": {},

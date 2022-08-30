@@ -2,6 +2,8 @@
 
 Get Random Funny Loading Messages/Texts for your app.
 
+[![npm version](https://badge.fury.io/js/loading-messages.svg)](https://www.npmjs.com/package/loading-messages)
+
 :laughing: :relieved: :grinning: :stuck_out_tongue_winking_eye: :wink: :sweat_smile:
 
 ## Get Started
